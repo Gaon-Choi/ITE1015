@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/print_people.dir/5-1-2.cc.o  -o print_people 
