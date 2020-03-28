@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clock_time.cpp
+iostream
+-
+iomanip
+-
+clock_time.h
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clock_time.h
+
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clock_time.h
+
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clocks.cpp
+clocks.h
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clocks.h
+
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clocks.h
+clock_time.h
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clock_time.h
+iostream
+-
+
+/home/gaon/2019_ITE1015_2019009261/10-2-1/main.cpp
+iostream
+-
+vector
+-
+clocks.h
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clocks.h
+clock_time.h
+/home/gaon/2019_ITE1015_2019009261/10-2-1/clock_time.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/clock_time.dir/main.cpp.o CMakeFiles/clock_time.dir/clock_time.cpp.o CMakeFiles/clock_time.dir/clocks.cpp.o  -o clock_time 
