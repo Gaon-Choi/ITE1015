@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaon/2019_ITE1015_2019009261/6-2-1/main.cpp
+iostream
+-
+string
+-
+shapes.h
+/home/gaon/2019_ITE1015_2019009261/6-2-1/shapes.h
+
+/home/gaon/2019_ITE1015_2019009261/6-2-1/shapes.cpp
+iostream
+-
+shapes.h
+/home/gaon/2019_ITE1015_2019009261/6-2-1/shapes.h
+
+/home/gaon/2019_ITE1015_2019009261/6-2-1/shapes.h
+
