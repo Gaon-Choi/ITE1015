@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dynamic_cast.dir/main.cpp.o CMakeFiles/dynamic_cast.dir/class.cpp.o  -o dynamic_cast 
