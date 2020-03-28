@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/minimal_fighter.dir/main.cpp.o CMakeFiles/minimal_fighter.dir/minimal_fighter.cpp.o  -o minimal_fighter 
