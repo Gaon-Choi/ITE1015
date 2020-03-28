@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaon/2019_ITE1015_2019009261/7-1-2/intset.cpp
+intset.h
+/home/gaon/2019_ITE1015_2019009261/7-1-2/intset.h
+
+/home/gaon/2019_ITE1015_2019009261/7-1-2/intset.h
+iostream
+-
+vector
+-
+algorithm
+-
+
+/home/gaon/2019_ITE1015_2019009261/7-1-2/main.cpp
+intset.h
+/home/gaon/2019_ITE1015_2019009261/7-1-2/intset.h
+
