@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/rectangle.dir/main.cpp.o CMakeFiles/rectangle.dir/rect.cpp.o  -o rectangle 
